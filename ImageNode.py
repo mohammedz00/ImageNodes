@@ -1,7 +1,7 @@
 
 bl_info = {
-    "name": "Shader Library",
-    "author": "Zenudeen Shehbaz",
+    "name": "Image Node",
+    "author": "Mohammed Zenudeen Shehbaz",
     "version": (1, 0),
     "blender": (2, 93, 0),
     "location": "View3D",
