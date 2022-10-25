@@ -1,5 +1,8 @@
+#Import bpy
+import bpy
 
-bl_info = {
+bl_info = 
+{
     "name": "Image Node",
     "author": "Mohammed Zenudeen Shehbaz",
     "version": (1, 0),
@@ -10,12 +13,6 @@ bl_info = {
     "wiki_url": "",
     "category": "Add Image Nodes",
 }
-
-
-#Import bpy
-
-import bpy
-
 
 #Creating main panel
 
